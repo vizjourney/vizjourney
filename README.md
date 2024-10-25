@@ -34,7 +34,7 @@ Let's connect and chat about our shared interests:
 
 ## My GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hydra-vi&show_icons=true&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vizjourney&show_icons=true&theme=dark)
 
 
 ## My Recent Projects
