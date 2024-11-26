@@ -1,12 +1,12 @@
-# Hello, I'm Gourav Chandra 👋
+# Hi, I'm Gourav 👋
 
 ## About Me
 
-I am a data enthusiast who love statistics as because that's how everything works. I squeeze data to get all the information out and put it on Intractive Dashboards to take business decision. Once I am done with that I carry those journey to forecast future outcomes according to business needs.
+I am a passionate data enthusiast with personnal and corporate project experience of ene-to-end data solutions. I have diverse domain knowledge and experience which includes Logistics, E-commerce, Insurance, and Financial Sector.
 
-- 💼 Currently working on freelance projects.
-- 🌱 Learning and growing every day and updated with current trends and technologies.
-- 🎯 Pursuing for new opportunity out there on the market.
+- 💼 Currently I am working as Team captain at Decathlon Logistics.
+- 🌱 Learning and growing while doing personnal projects using various open data sources and tools.
+
 
 ## Stack I use
 
@@ -37,9 +37,9 @@ Let's connect and chat about our shared interests:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vizjourney&show_icons=true&theme=dark)
 
 
-## My Recent Projects
+## My Projects
 
-I am currently working on multiple freelance projects. So Feel free to explore these projects and provide feedback!
+![Projects](https://github.com/vizjourney/Projects/)
 
 ## Get in Touch
 
